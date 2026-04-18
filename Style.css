@@ -1,0 +1,14 @@
+body {
+  background:#eee;
+  font-family: Arial;
+}
+.box {
+  width:300px;
+  margin:50px auto;
+  background:#fff;
+  padding:20px;
+}
+li {
+  display:flex;
+  justify-content:space-between;
+}
